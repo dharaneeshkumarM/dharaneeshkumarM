@@ -6,10 +6,10 @@
 
 <!-- ================= INTRO ================= -->
 
-<h1 align="center">Hi 👋, I'm Kavin M</h1>
+<h1 align="center">Hi 👋, I'm Dharaneeshkumar M</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | Java Full Stack Developer
+Artificial Intelligence And Data Science Engineering Student 
 </h3>
 
 <p align="center">
@@ -20,11 +20,10 @@ Computer Science Engineering Student | Java Full Stack Developer
 
 ## 👨‍💻 About Me
 
-- 🎓 Pre-Final Year Computer Science Engineering Student
+- 🎓 Pre-Final Year Artificial Intelligence And Data Sciece Engineering Student
 - 🏫 VSB College, Karur
-- 💻 Focused on Java Full Stack Development
+- 💻 Focused on Computer Vision
 - 🌱 Currently learning Spring Boot and Backend Development
-- 🗄️ Interested in MySQL and Database Development
 - 🤖 Interested in AI and modern software technologies
 - 🚀 Building real-world software projects
 - 🧩 Improving Data Structures and Problem Solving skills
